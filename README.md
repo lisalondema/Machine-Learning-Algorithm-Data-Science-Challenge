@@ -8,5 +8,5 @@ The primary objective is to replace manual loan reviews with a data-driven syste
 
 ## Key Results
 * **Selected Model:** Logistic Regression Pipeline
-* **Validation AUC:** **84.02%** (Demonstrates strong class separation on internal validation data)
+* **Validation AUC:** **84.02%**
 * **Test AUC:** **73.64%** (Out-of-sample evaluation on unseen data)
