@@ -6,7 +6,6 @@ Machine Learning is essential in modern banking for fast, objective, and accurat
 
 The primary objective is to replace manual loan reviews with a data-driven system that identifies default risks while prioritizing overall financial impact.
 
-## Key Results
-* **Selected Model:** Logistic Regression Pipeline
-* **Validation AUC:** **84.02%**
-* **Test AUC:** **73.64%** (Out-of-sample evaluation on unseen data)
+## Key Result
+* **Selected Model:** XGboost
+
